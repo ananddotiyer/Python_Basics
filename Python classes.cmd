@@ -1,2 +1,2 @@
-cd F:\Python\Classes\MIT\Notebooks
+cd "F:\BitBucket\Basic Python"
 C:\Anaconda\scripts\ipython notebook
