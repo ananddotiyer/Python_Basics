@@ -1,2 +1,2 @@
 cd "D:\BitBucket\Basic-Python"
-D:\Anaconda\scripts\ipython notebook
+C:\Users\Dell\Anaconda2\scripts\ipython notebook
