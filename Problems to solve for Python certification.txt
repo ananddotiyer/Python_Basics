@@ -1,0 +1,19 @@
+1.  Write a Python program to implement the Heron's algorithm to find square root of a given whole number.
+
+Reference: http://www.quickermaths.com/herons-method-of-finding-roots/
+
+2. Design and implement a shopping bill algorithm.
+Should support a pre-determined set of items, with pre-set prices for each.   Allow the user to select the items in a sequence, and print out the the total bill.  Allow adding same item multiple times.  Allow the shop-keeper to add/modify items to the existing list.
+
+3. Design and implment "Guess the secret number" game 
+(NOTE: This is different from the one we designed in the class)
+
+Reference: https://www.theproblemsite.com/games/secret-number-game-design
+
+4. Design and implement the "master-mind" game
+
+Reference: http://www.web-games-online.com/mastermind/rules.php
+
+5. Solve problems 1-10 from projecteuler.net
+
+NOTE: For the game problems, make suitable assumptions.  All games will use a command-line interface.
