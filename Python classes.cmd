@@ -1,2 +1,2 @@
-cd "D:\Official\BitBucket\Basic-Python"
-C:\Anaconda2\scripts\jupyter notebook
+cd "C:\BitBucket\Basic-Python"
+C:\Anaconda3\scripts\jupyter-notebook
