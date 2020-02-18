@@ -2,22 +2,22 @@
 
 Following is the syllabus for my "Python basics" course. In case you need a customization on this syllabus, please let me know.  and we'll work on it.
 
-•	Setting up environment (Installation, using Python shell, IDE)
-•	User Input, Introduce Loops, If conditions.
-•	Python objects, Variables, Strings, Simple scripts, Branching programs.
-•	Iteration, Guess & check, Bisection search, Approximation algorithms
-•	Functions, Nested functions, File I/O
-•	Recursion, Exceptions
-•	Read/write file - String manipulation, Regex
-•	Data structures - (lists, dictionaries, sets, tuples), including JSON
-•	Comprehensions (list, dictionary, set)
-•	OOP programming with Python
-•	API testing with Python
-•	Automating web user interfaces – Introduction to Selenium
-•	Working with Generators, Decorators, map-reduce algorithms.
-•	Unit testing in Python using PyUnit and nosetest
-•	Web frameworks for Python – Introduction to Flask.
-•	Solving real-world problems with Python.
+- Setting up environment (Installation, using Python shell, IDE)
+- User Input, Introduce Loops, If conditions.
+- Python objects, Variables, Strings, Simple scripts, Branching programs.
+- Iteration, Guess & check, Bisection search, Approximation algorithms
+- Functions, Nested functions, File I/O
+- Recursion, Exceptions
+- Read/write file - String manipulation, Regex
+- Data structures - (lists, dictionaries, sets, tuples), including JSON
+- Comprehensions (list, dictionary, set)
+- OOP programming with Python
+- API testing with Python
+- Automating web user interfaces – Introduction to Selenium
+- Working with Generators, Decorators, map-reduce algorithms.
+- Unit testing in Python using PyUnit and nosetest
+- Web frameworks for Python – Introduction to Flask.
+- Solving real-world problems with Python.
 
 **Pre-requisites for this course:**
 
