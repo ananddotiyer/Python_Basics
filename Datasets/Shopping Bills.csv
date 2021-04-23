@@ -1,0 +1,153 @@
+﻿Shop,Customer,Item,Category,Qty,Price,Cost
+SV Stores,Srivatsan,Carrots,Vegetables/Food,1.5,50,75
+SV Stores,Srivatsan,Soap,Toiletries,4,32,128
+SV Stores,Srivatsan,Tomatoes,Vegetables/Food,2,40,80
+SV Stores,Srivatsan,Bananas,Vegetables/Food,8,8,64
+SV Stores,Srivatsan,Socks,Footwear/AppareI,3,56,168
+SV Stores,Srivatsan,Curd,Dairy/Food,0.5,32,16
+SV Stores,Srivatsan,Milk,Dairy/Food,1.5,24,36
+Big Bazaar,Sudeep,Baked Beans,Canned/Food,1,125,125
+Big Bazaar,Sudeep,Chicken Wings,Meat/Food,0.5,600,300
+Big Bazaar,Sudeep,Cocoa powder,Canned/Food,1,160,160
+Big Bazaar,Sudeep,Capsicum,Vegetables/Food,0.8,180,144
+Big Bazaar,Sudeep,Tie,Apparel,2,390,780
+Big Bazaar,Sudeep,Clips,Household,0.5,32,16
+SV Stores,Akshaya,Face Wash,Toiletries,1,89,89
+SV Stores,Akshaya,Shampoo,Toiletries,1,140,140
+SV Stores,Akshaya,Onions,Vegetables/Food,1,98,98
+SV Stores,Akshaya,Bananas,Fruits/Food,4,8,32
+SV Stores,Akshaya,Milk,Dairy/Food,1,24,24
+SV Stores,Akshaya,Biscuits,Packed/Food,2,22,44
+SV Stores,Akshaya,Maggi,Packed/Food,1,85,85
+SV Stores,Akshaya,Horlicks,Packed/Food,1,270,270
+SV Stores,Akshaya,Chips,Packed/Food,1,20,20
+SV Stores,Akshaya,Chocolates,Packed/Food,4,10,40
+SV Stores,Akshaya,Cereal,Packed/Food,1,220,220
+SV Stores,Akshaya,Handwash,Toiletries,1,139,139
+SV Stores,Akshaya,Air freshener,Toiletries,2,70,140
+SV Stores,Advaith,Milk,Dairy/Food,2,24,48
+SV Stores,Advaith,Bread,Packed/Food,1,30,30
+SV Stores,Advaith,Eggs,Food,1,45,45
+Big Bazaar,Akshaya,Trousers,Women/Apparel,2,870,1740
+Big Bazaar,Akshaya,Shirts,Women/Apparel,1,1350,1350
+Big Bazaar,Akshaya,Detergent,Household,0.5,270,135
+Big Bazaar,Akshaya,Tee shirts,Women/Apparel,4,220,880
+Big Bazaar,Akshaya,Instant Noodles,Canned/Food,3,23,69
+Sun General,Srivatsan,Batteries,Utilities,6,14,84
+Sun General,Srivatsan,USB Cable,Electronics,1,85,85
+Sun General,Srivatsan,Ball Pens,Stationery,5,12,60
+Sun General,Srivatsan,Onions,Vegetables/Food,1.25,100,125
+SV Stores,Akhil,Bread,Packed/Food,1,30,30
+SV Stores,Akhil,Biscuits,Packed/Food,3,22,66
+Big Bazaar,Advaith,Trousers,Men/Apparel,2,950,1900
+Big Bazaar,Advaith,Basa Fish,Meat/Food,1,350,350
+Big Bazaar,Advaith,Boxers,Men/Apparel,4,160,640
+Big Bazaar,Advaith,Face Wash,Toiletries,1,72,72
+Big Bazaar,Advaith,Slippers,Footwear/Apparel,1,170,170
+Big Bazaar,Mohith,Lindt,Chocolate/Food,1,125,125
+Big Bazaar,Mohith,Socks,Footwear/AppareI,1,120,120
+Big Bazaar,Mohith,Spring Onions,Vegetables/Food,0.5,220,110
+Big Bazaar,Mohith,Lettuce,Vegetables/Food,0.6,150,90
+Big Bazaar,Mohith,Cookies,Snacks/Food,2,75,150
+Sun General,Rajesh,Notebooks,Stationery,3,20,60
+Sun General,Rajesh,Apples,Fruits/Food,6,24,144
+Sun General,Rajesh,Pears,Fruits/Food,4,30,120
+Sun General,Rajesh,Chart Paper,Stationery,2,22,44
+Sun General,Rajesh,Ruler,Stationery,1,10,10
+SV Stores,Abhinav,Chocolates,Packed/Food,1,10,10
+SV Stores,Abhinav,Cereal,Packed/Food,1,220,220
+SV Stores,Abhinav,Bananas,Fruits/Food,6,8,48
+SV Stores,Abhinav,Tomatoes,Vegetables/Food,1,40,40
+SV Stores,Abhinav,Curd,Dairy/Food,1,32,32
+SV Stores,Abhinav,Milk,Dairy/Food,2,24,48
+SV Stores,Abhinav,Horlicks,Packed/Food,1,270,270
+SV Stores,Abhinav,Plates,Household,4,45,180
+SV Stores,Abhinav,Eggs,Food,1,45,45
+Sun General,Aparna,Mosquito Coil,Household,2,24,48
+Sun General,Aparna,Bananas,Fruits/Food,6,5,30
+Sun General,Aparna,Ball Pens,Stationery,4,12,48
+Sun General,Aparna,Paper Clips,Stationery,1,60,60
+Big Bazaar,Abhinav,Shoes,Footwear/AppareI,1,2700,2700
+Big Bazaar,Abhinav,Polish,Footwear/AppareI,1,120,120
+Big Bazaar,Abhinav,Socks,Footwear/AppareI,2,120,240
+Sun General,Vignesh,Phone Charger,Utilities,1,230,230
+Sun General,Vignesh,Razor Blades,Grooming,1,12,12
+Sun General,Vignesh,Razor Blades,Grooming,1,45,45
+Sun General,Vignesh,Shaving Lotion,Grooming,0.8,180,144
+Sun General,Vignesh,Earphones,Electronics,1,210,210
+Sun General,Vignesh,Pencils,Stationery,3,5,15
+Sun General,Abhinav,Toothpaste,Toiletries,1,89,89
+Sun General,Abhinav,Shampoo,Toiletries,1,140,140
+Sun General,Advaith,Pencils,Stationery,2,5,10
+Sun General,Advaith,Notebooks,Stationery,4,20,80
+Sun General,Advaith,Geometry Box,Stationery,1,72,72
+Sun General,Advaith,Graph Book,Stationery,1,25,25
+SV Stores,George,Cereal,Packed/Food,1,220,220
+SV Stores,George,Milk,Dairy/Food,1,24,24
+SV Stores,George,Cupcakes,Packed/Food,1,25,25
+SV Stores,George,Chocolates,Packed/Food,1,10,10
+SV Stores,Ahmed,Tomatoes,Vegetables/Food,1,40,40
+SV Stores,Ahmed,Curd,Dairy/Food,1,32,32
+SV Stores,Ahmed,Cupcakes,Packed/Food,2,25,50
+SV Stores,Ahmed,Carrots,Vegetables/Food,1.5,50,75
+SV Stores,Ahmed,Beans,Vegetables/Food,1,45,45
+SV Stores,Ahmed,Onions,Vegetables/Food,0.5,98,49
+SV Stores,Ahmed,Turmeric,Packed/Food,1,82,82
+SV Stores,Ahmed,Ghee,Packed/Food,1,230,230
+SV Stores,Neeraja,Carrots,Vegetables/Food,1,50,50
+SV Stores,Neeraja,Horlicks,Packed/Food,1,270,270
+SV Stores,Neeraja,Chips,Packed/Food,1,20,20
+SV Stores,Neeraja,Kajal,Cosmetics,1,180,180
+SV Stores,Neeraja,Milk,Dairy/Food,3,24,72
+SV Stores,Ahmed,Tomatoes,Vegetables/Food,2,40,80
+SV Stores,Ahmed,Curd,Dairy/Food,2,32,64
+SV Stores,Ahmed,Cupcakes,Packed/Food,3,25,75
+SV Stores,Ahmed,Carrots,Vegetables/Food,0.5,50,25
+SV Stores,Ahmed,Onions,Vegetables/Food,1,98,98
+SV Stores,Ahmed,Handwash,Toiletries,1,139,139
+SV Stores,Ahmed,Bananas,Fruits/Food,12,8,96
+SV Stores,Ahmed,Eggs,Food,1,45,45
+SV Stores,Akshaya,Curd,Dairy/Food,0.5,32,16
+SV Stores,Akshaya,Butter,Dairy/Food,0.2,320,64
+SV Stores,Akshaya,Milk,Dairy/Food,2,24,48
+Sun General,Suresh,Batteries,Utilities,2,14,28
+Sun General,Suresh,Tomatoes,Vegetables/Food,1.5,80,120
+Sun General,Suresh,Spinach,Vegetables/Food,1,15,15
+Sun General,Suresh,Bananas,Fruits/Food,4,5,20
+Sun General,Suresh,Mosquito Coil,Household,1,24,24
+Sun General,Suresh,Guava,Fruits/Food,0.4,120,48
+Sun General,Suresh,Potato,Vegetables/Food,1.5,40,60
+SV Stores,Julia,Carrots,Vegetables/Food,1.5,50,75
+SV Stores,Julia,Bananas,Fruits/Food,12,8,96
+SV Stores,Julia,Curd,Dairy/Food,3,32,96
+SV Stores,Julia,Milk,Dairy/Food,4,24,96
+SV Stores,Julia,Cereal,Packed/Food,2,220,440
+SV Stores,Julia,Maggi,Packed/Food,1,85,85
+SV Stores,Neeraja,Milk,Dairy/Food,3,24,72
+SV Stores,Neeraja,Chips,Packed/Food,1,20,20
+Sun General,Ahmed,Earphones,Electronics,1,210,210
+Sun General,Ahmed,Phone cover,Accessories,1,140,140
+Sun General,Ahmed,Dongle,Electronics,1,790,790
+Sun General,Ahmed,A4 sheets,Stationery,200,1,200
+Sun General,Ahmed,Ball Pens,Stationery,2,12,24
+SV Stores,Srivatsan,Beans,Vegetables/Food,1,45,45
+SV Stores,Srivatsan,Bread,Packed/Food,1,30,30
+SV Stores,Srivatsan,Onions,Vegetables/Food,0.5,98,49
+SV Stores,Srivatsan,Bananas,Fruits/Food,6,8,48
+SV Stores,Srivatsan,Curd,Dairy/Food,1,32,32
+SV Stores,Srivatsan,Milk,Dairy/Food,3,24,72
+SV Stores,Vignesh,Face Wash,Toiletries,1,89,89
+SV Stores,Vignesh,Shampoo,Toiletries,1,140,140
+SV Stores,Vignesh,Maggi,Packed/Food,1,85,85
+SV Stores,Vignesh,Chips,Packed/Food,1,20,20
+SV Stores,Vignesh,Chocolates,Packed/Food,4,40,160
+SV Stores,Vignesh,Air freshener,Toiletries,2,70,140
+SV Stores,Ahmed,Chocolates,Packed/Food,1,10,10
+SV Stores,Ahmed,Curd,Dairy/Food,2,32,64
+SV Stores,Ahmed,Bananas,Fruits/Food,4,8,32
+Big Bazaar,Radha,Broccoli,Vegetables/Food,0.5,120,60
+Big Bazaar,Radha,Chicken Legs,Meat/Food,0.5,320,160
+Big Bazaar,Radha,Basa Fish,Meat/Food,1,350,350
+Big Bazaar,Radha,Lettuce,Vegetables/Food,0.8,150,120
+Big Bazaar,Radha,Eggs,Meat/Food,12,9,108
+,,,,,,
