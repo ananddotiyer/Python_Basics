@@ -1,0 +1,5 @@
+Hello World!
+A file is just a collection of strings.
+Nothing to worry.
+You will pick up speed as time goes on.
+Bye!
